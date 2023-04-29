@@ -65,8 +65,3 @@ React Native documentation and youtube
 › Press i │ open iOS simulator
 › Press w │ open web
 ```
-
-## Technology Used
-React Native
-Js 
-Css
